@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="/assets/img/Figure4.jpg" %}
+{% include feature/jumbotron.html objectid="/assets/img/Figure3.jpg" %}
 
 ## About CollectionBuilder-Sheets
 
