@@ -1,10 +1,10 @@
 field,display_name,browse_link,external_link
 title,Title,
-title_translated,English Title,
+title_translated,English Title
 creator,Creator,
 date,Date Created,
 description,Description,
-ocr_text,OCR Text,
+ocr_text,OCR Text
 subject,Subjects,true
 location,Location
 latitude,Latitude
