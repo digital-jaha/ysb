@@ -22,10 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # title of site appears in banner
 title: JAHA Digital Collections
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: test site
+tagline: Yokohama Specie Bank Records (Test Site)
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Search and browse digitized documents from the Yokohama Specie Banks records of the Japanese American History Archive."
+description: "Search and browse digitized documents from Japanese American History Archive of the Japanese The Japanese Cultural and Community Center of Northern California (JCCCNC/the Center)."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: JCCCNC
 
