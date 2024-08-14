@@ -1,8 +1,9 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator,Creator,,,
-subject,,true
-location,,true
+subject,,true,
+location,,true,
 machine_people,People,,,
 machine_organizations,Organizations,,,
 machine_places,Places,,,
+language,Languages,,,
