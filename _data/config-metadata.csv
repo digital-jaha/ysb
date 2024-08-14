@@ -9,6 +9,7 @@ subject,Subjects,true
 location,Location
 latitude,Latitude
 longitude,Longitude
+machine_physical_description,Physical Description,
 source,Source
 identifier,Source Identifier,,
 type,Type,
