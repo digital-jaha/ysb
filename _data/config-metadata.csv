@@ -2,7 +2,7 @@ field,display_name,browse_link,external_link
 title,Title,,
 title_translated,English Title,,
 creator,Creator,,
-date,Date Created,
+date,Date Created,,
 description,Description,
 ocr_text,OCR Text
 subject,Subjects,true
