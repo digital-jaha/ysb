@@ -3,3 +3,6 @@ date,Date,,,Date
 creator,Creator,,,
 subject,,true
 location,,true
+machine_people,People,,,
+machine_organizations,Organizations,,,
+machine_places,Places,,,
