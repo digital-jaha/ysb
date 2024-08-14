@@ -1,6 +1,6 @@
 field,display_name,browse_link,external_link
 title,Title,,
-title_translated,English Title
+title_translated,English Title,,
 creator,Creator,
 date,Date Created,
 description,Description,
