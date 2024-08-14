@@ -7,3 +7,6 @@ description,true,true
 ocr_text,true,true
 subject,true,true
 location,true,false
+machine_people,true,true
+machine_organizations,true,true
+machine_places,true,true
