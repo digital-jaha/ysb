@@ -1,11 +1,14 @@
 field,display_name,browse_link,external_link
 title,Title,,
 title_translated,English Title,,
-creator,Creator,,
+creator,Creator,,true
 date,Date Created,,
 description,Description,
 ocr_text,OCR Text
 subject,Subjects,true
+machine_people,People,true
+machine_organizations,Organizations,true
+machine_places,Places,true
 location,Location
 latitude,Latitude
 longitude,Longitude
