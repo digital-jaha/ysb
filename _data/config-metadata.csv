@@ -1,7 +1,7 @@
 field,display_name,browse_link,external_link
 title,Title,,
 title_translated,English Title,,
-creator,Creator,
+creator,Creator,,
 date,Date Created,
 description,Description,
 ocr_text,OCR Text
