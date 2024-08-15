@@ -1,9 +1,9 @@
 field,display_name,btn,hidden,sort_name
 title,Title,,,Title
-title_translate,English Title,English Title,
+title_translated,English Title,,,English Title
 date,Date,,,Date
 creator,Creator,,,
 subject,,true,
 location,,true,
-language,Languages,,,
+language,,true,
 objectid,,true,
