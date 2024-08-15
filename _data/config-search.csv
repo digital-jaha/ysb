@@ -10,3 +10,4 @@ location,true,false
 machine_people,true,true
 machine_organizations,true,true
 machine_places,true,true
+identifier,true,true
