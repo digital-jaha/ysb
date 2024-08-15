@@ -2,7 +2,7 @@ field,display_name,btn,hidden,sort_name
 title_translated,English Title,,,English Title
 date,Date,,,Date
 creator,Creator,,,
-subject,,true,
-location,,true,
-language,,true,
-objectid,,true,
+subject,,true,,
+location,,true,,
+language,,true,,
+objectid,,true,,
