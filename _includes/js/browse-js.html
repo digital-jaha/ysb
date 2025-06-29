@@ -155,9 +155,7 @@ var browsePageInit = function (cb_items) {
   var cb_items = cb_items.filter(item => !item.parentid);
   {% endunless %}
   /* randomize items once at page load */
-  //shuffle(cb_items);
-  /* sort by objectid at page load */
-  sorting(items,"objectid");
+  shuffle(cb_items);
   /* filter if hash in initial URL */
   if(window.location.hash) {
     query = decodeURIComponent(location.hash.substr(1));
