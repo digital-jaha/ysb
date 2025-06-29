@@ -3,7 +3,7 @@ primary,#73a950
 secondary,#002d5c
 success,
 info,
-warning,
+warning,#e24301
 danger,
 light,
-dark,#002d5c
+dark,#000000
